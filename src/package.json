@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex01-5.js",
+  "devDependencies": {},
+  "scripts": {
+    "um": "node ex01.js",
+    "dois": "node ex02.js",
+    "tres": "node ex03.js",
+    "quatro": "node ex04.js",
+    "cinco": "node ex05.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
